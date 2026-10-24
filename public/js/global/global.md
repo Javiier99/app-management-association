@@ -1,0 +1,1 @@
+Aquí irán todas las funciones globales que se pueden repetir en cualquier sitio
