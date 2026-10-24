@@ -1,1 +1,0 @@
-Aquí en secrets solo se usará para colocar datos que no querremos que se suba al sistema de github ya que todo esto será publico
