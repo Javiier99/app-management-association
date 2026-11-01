@@ -1,0 +1,1 @@
+<!-- Es la zona para ver los pagos de las cuotas que llevas -->
